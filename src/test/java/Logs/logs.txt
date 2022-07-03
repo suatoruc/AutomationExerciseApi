@@ -1,0 +1,14 @@
+2022-07-03 17:06:56 INFO  Log:35 - 1 Blue Top Rs. 500 Polo
+2022-07-03 17:06:56 INFO  Log:35 - 2 Men Tshirt Rs. 400 H&M
+2022-07-03 17:06:56 INFO  Log:35 - 5 Winter Top Rs. 600 Mast & Harbour
+2022-07-03 17:06:56 INFO  Log:35 - 6 Summer White Top Rs. 400 H&M
+2022-07-03 17:06:56 INFO  Log:35 - 8 Fancy Green Top Rs. 700 Polo
+2022-07-03 17:06:56 INFO  Log:35 - 11 Sleeves Printed Top - White Rs. 499 Babyhug
+2022-07-03 17:06:56 INFO  Log:35 - 12 Half Sleeves Top Schiffli Detailing - Pink Rs. 359 Babyhug
+2022-07-03 17:06:56 INFO  Log:35 - 13 Frozen Tops For Kids Rs. 278 Allen Solly Junior
+2022-07-03 17:06:56 INFO  Log:35 - 14 Full Sleeves Top Cherry - Pink Rs. 679 Kookie Kids
+2022-07-03 17:06:56 INFO  Log:35 - 15 Printed Off Shoulder Top - White Rs. 315 Babyhug
+2022-07-03 17:06:56 INFO  Log:35 - 16 Sleeves Top and Short - Blue & Pink Rs. 478 Babyhug
+2022-07-03 17:06:56 INFO  Log:35 - 24 Colour Blocked Shirt – Sky Blue Rs. 849 Allen Solly Junior
+2022-07-03 17:06:56 INFO  Log:35 - 31 Pure Cotton Neon Green Tshirt Rs. 850 H&M
+2022-07-03 17:06:56 INFO  Log:35 - 33 Soft Stretch Jeans Rs. 799 Polo
