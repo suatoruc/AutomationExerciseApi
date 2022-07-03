@@ -10,8 +10,8 @@ ilk cözüm yolumuzda list ler map ler sting manipülation gibi kullanarak genel
 ikinci yol olarak da <b><i> html/text convert to json</i></b> kullanarak assert lerimizi genel responce göre yapabiliyoruz.
 gelen responce deki alanları alabilmek için ise bir fori ile ihtiyacımız olan yapıyı kurabildik.
 
-#* pojo class yapısı kullanıldı
-#* framework olarak çok kullanışlı olmasa da cucumber kullandım.
-#* log lama olarak LOG4J class'ını kullandım.
+# * pojo class yapısı kullanıldı
+# * framework olarak çok kullanışlı olmasa da cucumber kullandım.
+# * log lama olarak LOG4J class'ını kullandım.
 
 <b><i> umarım otomasyon pratigi için faydalı olur. </i></b>
