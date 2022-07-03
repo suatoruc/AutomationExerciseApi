@@ -1,8 +1,8 @@
 # AutomationExerciseApiTests
 
 Otomasyon yaparken kullanıdığımız otomasyon sitesi olan <b> Automation Exercise</b> sitesindeki 
-Api testlerinin cözümünü iki farklı yöntemle yaptım. 
-Bildiginiz gibi api testlerinde bize dönen responce Json formatında gelir 
+<b>Api</b>  testlerinin cözümünü iki farklı yöntemle yaptım. 
+Bildiginiz gibi api testlerinde bize dönen responce <b><i>Json </i></b> formatında gelir 
 bizde bu responce göre assert lerimizi kullanarak dogrulamalarımızı yapıyorduk 
 ama bu sitede bize responce olarak html/text geliyor.
 
