@@ -2,7 +2,7 @@
 
 Otomasyon yaparken kullanıdığımız otomasyon sitesi olan <b> Automation Exercise</b> sitesindeki 
 <b>Api</b>  testlerinin cözümünü iki farklı yöntemle yaptım. 
-Bildiginiz gibi api testlerinde bize dönen responce <b><i>Json </i></b> formatında gelir 
+<br>Bildiginiz gibi api testlerinde bize dönen responce <b><i>Json </i></b> formatında gelir 
 bizde bu responce göre assert lerimizi kullanarak dogrulamalarımızı yapıyorduk 
 ama bu sitede bize responce olarak <b><i> html/text </i></b> geliyor.
 
