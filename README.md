@@ -14,4 +14,4 @@ gelen responce deki alanları alabilmk içinde bir fori ile ihtiyacımız olan y
 # framework olarak çok kullanışlı olmasa da cucumber kullandım.
 # log lama olarak LOG4J class'ını kullandım.
 
-# $ umarım otomasyon pratigi için faydalı olur. 
+# umarım otomasyon pratigi için faydalı olur. 
